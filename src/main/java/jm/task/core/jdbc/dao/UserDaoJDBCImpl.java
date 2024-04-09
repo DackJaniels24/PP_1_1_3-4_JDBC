@@ -4,9 +4,6 @@ import jm.task.core.jdbc.util.Util;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
-
-import static java.sql.DriverManager.getConnection;
-
 public class UserDaoJDBCImpl implements UserDao {
     private static final Connection connection = Util.getConnection();
 
