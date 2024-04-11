@@ -23,5 +23,7 @@ public class Main {
        // userDao.cleanUsersTable();
        // userDao.dropUsersTable();
         // реализуйте алгоритм здесь
+
+
     }
 }
